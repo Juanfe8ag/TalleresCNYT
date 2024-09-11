@@ -1,5 +1,5 @@
 # TallleresCNYT
-Esta es una libreria compuesta por 4 archivos de Python. Estos a su vez tienen diferentes tipos de operaciones entre números complejos, vectores complejos y matrices complejas, además se pueden ver dos tipos de gráficos como son el Mandelbrot set y los Julia set, asíc omo también operaciones cuánticas como el interferometro de Mach-Zehnder o el algoritmo de Deutsch.
+Esta es una libreria compuesta por 4 archivos de Jupyter Notebook. Estos a su vez tienen diferentes tipos de operaciones entre números complejos, vectores complejos y matrices complejas, además se pueden ver dos tipos de gráficos como son el Mandelbrot set y los Julia set, asíc omo también operaciones cuánticas como el interferometro de Mach-Zehnder o el algoritmo de Deutsch.
 ### Getting Started
 Las operaciones que se ven aqui son:
 1. Adición de vectores complejos.
